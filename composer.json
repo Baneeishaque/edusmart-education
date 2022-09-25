@@ -11,6 +11,6 @@
     ],
     "minimum-stability": "stable",
     "require-dev": {
-        "heroku/heroku-buildpack-php": "*"
+        "heroku/heroku-buildpack-php": "224.0.0"
     }
 }
